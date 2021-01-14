@@ -1,0 +1,25 @@
+.ImageProfil{
+  width: 300px;
+  margin-left: 500px;
+}
+h1{
+  margin-left: 400px;
+  margin-top: 60px;
+  border-style: outset;
+  margin-right: 400px;
+  color: rgb(231, 220, 220);
+
+}
+h2{
+  margin-left: 400px;
+  border-style: outset;
+margin-right: 400px;
+color: rgb(231, 220, 220);
+}
+.App{
+  background-image: url(./images/img\(20\).jpg);
+  /* background-repeat: no-repeat; */
+
+  padding-top: 190px;
+  
+}
